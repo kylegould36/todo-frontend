@@ -1,3 +1,9 @@
+Link to site: https://todo-backend-7qe8.onrender.com
+
+Link to backend repo: https://github.com/kylegould36/todo-frontend.git](https://github.com/kylegould36/todo-backend.git
+
+This is a very simple Todo List made with: Express, React, and MongoDB
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
